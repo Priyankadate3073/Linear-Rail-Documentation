@@ -57,7 +57,7 @@ Connect the provided power connectors to a **12V, 2A DC power supply**. Then con
 
 **2. Upload the Code**
  
-1. Download or clone this repository.
+1. [Download the code](motor_shield_holding.ino)
 2. Open `motor_shield_holding.ino` in the Arduino IDE.
 3. Select your board under **Tools → Board** (e.g. *Arduino Uno*).
 4. Select the correct port under **Tools → Port**.
